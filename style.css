@@ -1,0 +1,18 @@
+body {
+    background-color: greenyellow;
+}
+#Score 
+{
+font-size: large;
+margin-left:-20px;
+}
+#Time
+{
+  font-size: large;
+  margin-right: 18px;
+}
+#Sketch
+{
+  font-size: x-large;
+    color: red;
+}
